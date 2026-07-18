@@ -1,0 +1,4 @@
+Utterance number : 142
+DataFrame index : 66
+Target filename : 0142_R.wav
+Context range : 63 - 69

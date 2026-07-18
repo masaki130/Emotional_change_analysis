@@ -1,0 +1,4 @@
+Utterance number : 483
+DataFrame index : 238
+Target filename : 0483_R.wav
+Context range : 235 - 241

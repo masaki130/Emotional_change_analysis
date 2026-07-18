@@ -1,0 +1,4 @@
+Utterance number : 331
+DataFrame index : 158
+Target filename : 0331_R.wav
+Context range : 155 - 161

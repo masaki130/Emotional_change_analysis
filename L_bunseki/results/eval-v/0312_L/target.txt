@@ -1,0 +1,4 @@
+Utterance number : 312
+DataFrame index : 157
+Target filename : 0312_L.wav
+Context range : 154 - 160

@@ -1,0 +1,4 @@
+Utterance number : 504
+DataFrame index : 250
+Target filename : 0504_L.wav
+Context range : 247 - 253

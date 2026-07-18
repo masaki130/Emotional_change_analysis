@@ -1,0 +1,4 @@
+Utterance number : 116
+DataFrame index : 56
+Target filename : 0116_L.wav
+Context range : 53 - 59

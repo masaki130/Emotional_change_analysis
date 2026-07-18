@@ -1,0 +1,4 @@
+Utterance number : 219
+DataFrame index : 105
+Target filename : 0219_R.wav
+Context range : 102 - 108

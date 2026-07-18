@@ -1,0 +1,4 @@
+Utterance number : 163
+DataFrame index : 80
+Target filename : 0163_R.wav
+Context range : 77 - 83

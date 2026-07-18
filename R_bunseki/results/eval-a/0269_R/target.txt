@@ -1,0 +1,4 @@
+Utterance number : 269
+DataFrame index : 130
+Target filename : 0269_R.wav
+Context range : 127 - 133

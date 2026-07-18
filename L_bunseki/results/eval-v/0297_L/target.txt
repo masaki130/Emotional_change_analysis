@@ -1,0 +1,4 @@
+Utterance number : 297
+DataFrame index : 148
+Target filename : 0297_L.wav
+Context range : 145 - 151

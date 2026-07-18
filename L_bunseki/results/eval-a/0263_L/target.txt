@@ -1,0 +1,4 @@
+Utterance number : 263
+DataFrame index : 131
+Target filename : 0263_L.wav
+Context range : 128 - 134

@@ -1,0 +1,4 @@
+Utterance number : 421
+DataFrame index : 207
+Target filename : 0421_R.wav
+Context range : 204 - 210

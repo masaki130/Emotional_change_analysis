@@ -1,0 +1,4 @@
+Utterance number : 376
+DataFrame index : 184
+Target filename : 0376_R.wav
+Context range : 181 - 187

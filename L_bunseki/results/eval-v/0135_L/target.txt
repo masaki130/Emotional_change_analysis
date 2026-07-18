@@ -1,0 +1,4 @@
+Utterance number : 135
+DataFrame index : 67
+Target filename : 0135_L.wav
+Context range : 64 - 70

@@ -1,0 +1,4 @@
+Utterance number : 212
+DataFrame index : 103
+Target filename : 0212_R.wav
+Context range : 100 - 106

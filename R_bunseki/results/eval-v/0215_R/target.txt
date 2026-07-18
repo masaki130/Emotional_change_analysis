@@ -1,0 +1,4 @@
+Utterance number : 215
+DataFrame index : 104
+Target filename : 0215_R.wav
+Context range : 101 - 107
