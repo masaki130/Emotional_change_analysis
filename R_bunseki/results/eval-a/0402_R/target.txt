@@ -1,4 +1,0 @@
-Utterance number : 402
-DataFrame index : 198
-Target filename : 0402_R.wav
-Context range : 195 - 201

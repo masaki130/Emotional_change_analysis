@@ -1,4 +1,0 @@
-Utterance number : 122
-DataFrame index : 59
-Target filename : 0122_L.wav
-Context range : 56 - 62

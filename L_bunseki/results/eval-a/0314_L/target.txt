@@ -1,4 +1,0 @@
-Utterance number : 314
-DataFrame index : 158
-Target filename : 0314_L.wav
-Context range : 155 - 161

@@ -1,4 +1,0 @@
-Utterance number : 377
-DataFrame index : 187
-Target filename : 0377_L.wav
-Context range : 184 - 190

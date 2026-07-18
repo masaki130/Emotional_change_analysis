@@ -1,4 +1,0 @@
-Utterance number : 318
-DataFrame index : 161
-Target filename : 0318_L.wav
-Context range : 158 - 164

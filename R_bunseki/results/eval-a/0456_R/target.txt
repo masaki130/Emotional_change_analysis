@@ -1,4 +1,0 @@
-Utterance number : 456
-DataFrame index : 222
-Target filename : 0456_R.wav
-Context range : 219 - 225

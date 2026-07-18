@@ -1,4 +1,0 @@
-Utterance number : 54
-DataFrame index : 28
-Target filename : 0054_L.wav
-Context range : 25 - 31

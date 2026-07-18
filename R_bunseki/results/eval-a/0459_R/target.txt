@@ -1,4 +1,0 @@
-Utterance number : 459
-DataFrame index : 225
-Target filename : 0459_R.wav
-Context range : 222 - 228

@@ -1,4 +1,0 @@
-Utterance number : 500
-DataFrame index : 247
-Target filename : 0500_L.wav
-Context range : 244 - 250

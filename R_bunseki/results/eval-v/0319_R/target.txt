@@ -1,4 +1,0 @@
-Utterance number : 319
-DataFrame index : 152
-Target filename : 0319_R.wav
-Context range : 149 - 155

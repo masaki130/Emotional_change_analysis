@@ -1,4 +1,0 @@
-Utterance number : 404
-DataFrame index : 199
-Target filename : 0404_R.wav
-Context range : 196 - 202

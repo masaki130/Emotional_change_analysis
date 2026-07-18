@@ -1,4 +1,0 @@
-Utterance number : 15
-DataFrame index : 6
-Target filename : 0015_L.wav
-Context range : 3 - 9
