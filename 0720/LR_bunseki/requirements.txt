@@ -1,0 +1,9 @@
+matplotlib
+japanize-matplotlib
+pandas
+numpy
+seaborn
+librosa
+soundfile
+torch
+transformers==4.38.2
