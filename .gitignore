@@ -17,3 +17,6 @@ R_bunseki/0707-trend_analysis/R_eval-V-per_audio-R-win15/
 0720/LR_bunseki/data/delta_L.csv
 0720/LR_bunseki/data/delta_R.csv
 0720/LR_bunseki/results/eval_q/
+0720/LR_bunseki/data/vad_delta_L_no_abs.csv
+0720/LR_bunseki/data/vad_delta_R_no_abs.csv
+0720/LR_bunseki/data/ogvc/OGVC_VAD_bulk.csv
